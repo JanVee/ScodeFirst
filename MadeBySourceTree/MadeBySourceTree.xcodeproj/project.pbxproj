@@ -14,6 +14,8 @@
 		0467376A1C2A6137009335FC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046737691C2A6137009335FC /* Images.xcassets */; };
 		0467376D1C2A6137009335FC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0467376B1C2A6137009335FC /* LaunchScreen.xib */; };
 		046737791C2A6137009335FC /* MadeBySourceTreeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 046737781C2A6137009335FC /* MadeBySourceTreeTests.m */; };
+		046737841C2A62D5009335FC /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046737831C2A62D5009335FC /* FirstViewController.m */; };
+		046737871C2A63EB009335FC /* ScondeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046737861C2A63EB009335FC /* ScondeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,10 @@
 		046737721C2A6137009335FC /* MadeBySourceTreeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MadeBySourceTreeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		046737771C2A6137009335FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		046737781C2A6137009335FC /* MadeBySourceTreeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MadeBySourceTreeTests.m; sourceTree = "<group>"; };
+		046737821C2A62D5009335FC /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		046737831C2A62D5009335FC /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		046737851C2A63EB009335FC /* ScondeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScondeViewController.h; sourceTree = "<group>"; };
+		046737861C2A63EB009335FC /* ScondeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScondeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +91,10 @@
 				046737611C2A6137009335FC /* AppDelegate.m */,
 				046737631C2A6137009335FC /* ViewController.h */,
 				046737641C2A6137009335FC /* ViewController.m */,
+				046737821C2A62D5009335FC /* FirstViewController.h */,
+				046737831C2A62D5009335FC /* FirstViewController.m */,
+				046737851C2A63EB009335FC /* ScondeViewController.h */,
+				046737861C2A63EB009335FC /* ScondeViewController.m */,
 				046737661C2A6137009335FC /* Main.storyboard */,
 				046737691C2A6137009335FC /* Images.xcassets */,
 				0467376B1C2A6137009335FC /* LaunchScreen.xib */,
@@ -221,7 +231,9 @@
 			files = (
 				046737651C2A6137009335FC /* ViewController.m in Sources */,
 				046737621C2A6137009335FC /* AppDelegate.m in Sources */,
+				046737871C2A63EB009335FC /* ScondeViewController.m in Sources */,
 				0467375F1C2A6137009335FC /* main.m in Sources */,
+				046737841C2A62D5009335FC /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
