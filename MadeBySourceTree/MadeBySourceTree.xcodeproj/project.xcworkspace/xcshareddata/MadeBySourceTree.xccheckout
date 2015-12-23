@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BB4DF4C5-18C2-4315-8091-DF93F24BABBE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>487A215365905D9871EF2B22AB06ADE2A3CC4EB9</key>
+		<string>https://github.com/JanVee/ScodeFirst.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MadeBySourceTree/MadeBySourceTree.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>487A215365905D9871EF2B22AB06ADE2A3CC4EB9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JanVee/ScodeFirst.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>487A215365905D9871EF2B22AB06ADE2A3CC4EB9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>487A215365905D9871EF2B22AB06ADE2A3CC4EB9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ScodeFirst</string>
+		</dict>
+	</array>
+</dict>
+</plist>
